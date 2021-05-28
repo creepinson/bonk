@@ -16,7 +16,7 @@ Next, `cd bonk`.
 Now you can run the example file:
 
 ```python
-python3 -m .bongo.main
+python3 -m bongo.example
 ```
 
 This example opens a firefox browser instance, then plays the C note on the keyboard 10 times with a 0.25 second delay in between.
